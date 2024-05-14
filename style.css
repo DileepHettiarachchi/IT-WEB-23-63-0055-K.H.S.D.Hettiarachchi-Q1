@@ -71,7 +71,30 @@ body{
 }
 .part_01{
     padding-left:60px;
+    padding-right:10px;
     font-family: "Poppins", sans-serif;
         font-weight: 1000;
         font-weight: bold;
+}
+.task_management{
+    font-weight:bold;
+    font-size:50px;
+}
+.para_01{
+    font-weight: normal;
+    font-size:14px;
+    opacity:60%;
+    line-height:24px;
+}
+.hero_image{
+    max-width: 100%;
+    height: auto;
+    margin:0;
+    padding:0;
+    padding-right:40px;
+    padding-left:10px;
+}
+.part_first{
+    margin:0;
+    padding:0;
 }
